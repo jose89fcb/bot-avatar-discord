@@ -25,4 +25,4 @@ async def on_ready():
  
  
  
-bot.run('')    #Crea un bot e un Token: https://discord.com/developers/applications
+bot.run('')    #Crea un Token en => https://discord.com/developers/applications
